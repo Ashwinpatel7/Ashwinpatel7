@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinpatel7&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinpatel7" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinpatel7" alt="ashwinpatel7" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/ashwinp51434622" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinp51434622?logo=twitter&style=for-the-badge" alt="ashwinp51434622" /></a> </p>
 
 - 🌱 I’m currently learning **Monorepos,Docker,NextJs**
