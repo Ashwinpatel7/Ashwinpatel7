@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/ashwin-patel-the-sans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashwin-patel-the-sans" height="30" width="40" /></a>
 <a href="https://twitter.com/ashwinp51434622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwinp51434622" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ashwinpa8ih1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ashwinpa8ih1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
