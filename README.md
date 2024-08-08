@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ashwinpatel7677@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing](https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing)
+- 📄 My Resume: [Click Here](https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
