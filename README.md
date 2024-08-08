@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashwinp51434622" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinp51434622?logo=twitter&style=for-the-badge" alt="ashwinp51434622" /></a> </p>
 
-- 🌱 I’m currently learning **Monorepos,Docker,NextJs**
+- 🌱 Currently Grinding **Monorepos,Docker,NextJs**
 
-- 💬 Ask me about **react,git**
+- 💬 Pretty much know **react,git**
 
-- 📫 How to reach me **ashwinpatel7677@gmail.com**
+- 📫 Ping me here **ashwinpatel7677@gmail.com**
 
-- 📄 Here are my works [https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing](https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing)
+- 📄 My Resume: [https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing](https://drive.google.com/file/d/1RhOlBLn0QfLZXPnu8__Nktcc40gpnSW8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
